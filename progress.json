@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T04:16:29.944Z",
+  "generated_at": "2026-10-28T18:17:15.457Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -130,6 +130,19 @@
       "last_pushed_at": "2026-10-28T04:16:29.375Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:240": {
+      "kind": "problem",
+      "id": "240",
+      "title": "Bilinear Image Resizing",
+      "difficulty": "medium",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/240",
+      "path": "problems/0240-bilinear-image-resizing",
+      "first_solved_at": "2026-10-28T18:17:14.779Z",
+      "last_pushed_at": "2026-10-28T18:17:14.779Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }
